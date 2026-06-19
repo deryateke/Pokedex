@@ -42,8 +42,8 @@ CSS animations and toggle effects with classList
 
 Mapping API data to dynamic UI components
 
-
-
+# Preview
+![Pokedex Guide](./Pokedex.gif)
 
 
 
