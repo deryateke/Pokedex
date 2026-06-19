@@ -3,7 +3,6 @@
 A fun and interactive Pokédex web app that lets you explore all 151 original Pokémon — powered by the PokéAPI, built with pure Vanilla JavaScript.
 
 # Features
-
 🔍 Real-time search — filter Pokémon by name as you type
 🎨 Dynamic color-coded cards based on Pokémon type
 📦 Fetches live data from PokéAPI for all 151 original Pokémon
